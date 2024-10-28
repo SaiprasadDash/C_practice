@@ -48,3 +48,8 @@ int main() {
 
     return 0;
 }
+//Here in the !st part the simple mutiplication logic has used
+//For the 2nd part I used a terminary operator is to check which variable is greater
+//For the third part if the x value is 0 then zero_count is got incrementsd by 1 
+//IF x less than 0 minus_sum + x
+//Else plus_sum + x as for the question.
